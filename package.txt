@@ -1,8 +1,8 @@
 NAME=meson
-VERSION=0.47.1
-REVISION=2
-SRC=https://github.com/mesonbuild/meson/releases/download/0.47.1/meson-0.47.1.tar.gz
-SRCMD5=5ed95fd4e9c7634f7cf3482d352804e7
+VERSION=0.47.2
+REVISION=1
+SRC=https://github.com/mesonbuild/meson/releases/download/0.47.2/meson-0.47.2.tar.gz
+SRCMD5=31bda3519d8c0eb3438267268a78085e
 BUILDDEPS=python3 ninja
 INSTALLDEPS=python3 ninja
 OPTIONS=bootstrap|release
